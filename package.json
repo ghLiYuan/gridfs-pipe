@@ -1,0 +1,25 @@
+{
+  "name": "gridfs-pipe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghLiYuan/gridfs-pipe.git"
+  },
+  "keywords": [],
+  "author": "ghLiYuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghLiYuan/gridfs-pipe/issues"
+  },
+  "homepage": "https://github.com/ghLiYuan/gridfs-pipe#readme",
+  "dependencies": {
+    "gridfs-stream": "^1.1.1",
+    "mime-types": "^2.1.35",
+    "mongoose": "4.11.4"
+  }
+}
